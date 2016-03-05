@@ -12,4 +12,12 @@ All notable changes to this project will be documented in this file. This projec
 // `Security` to invite users to upgrade in case of vulnerabilities.
 // http://keepachangelog.com
 
+<<<<<<< HEAD
 ### v 0.0.1
+=======
+### v 0.0.2
+Added blah
+
+### v 0.0.1
+Initialization.
+>>>>>>> dev
