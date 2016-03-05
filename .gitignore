@@ -1,10 +1,7 @@
 *.tmp
 *.dev
 *.dev.md
-<<<<<<< HEAD
-=======
 
 *.tar.gz
 *.tgz
 *.zip
->>>>>>> dev
