@@ -1,0 +1,7 @@
+*.tmp
+*.dev
+*.dev.md
+
+*.tar.gz
+*.tgz
+*.zip
